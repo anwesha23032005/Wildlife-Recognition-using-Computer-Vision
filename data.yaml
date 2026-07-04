@@ -1,0 +1,10 @@
+path: C:/pycode/animal/data
+train: images/train
+val: images/val
+names:
+  0: tiger
+  1: elephant
+  2: wolf
+  3: primate
+  4: leopard
+
