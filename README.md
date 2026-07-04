@@ -15,7 +15,6 @@ WildVision AI is an object detection system built using **Ultralytics YOLOv8**. 
 - 🐺 Wolf
 - 🐒 Primate
 
-The project demonstrates the complete deep learning workflow, including dataset preparation, model training, inference, and API integration.
 
 ---
 
